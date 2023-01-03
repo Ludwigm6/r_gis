@@ -1,4 +1,6 @@
+book_filename: "rgis"
 delete_merged_file: true
 language:
   ui:
-    chapter_name: "Chapter "
+    chapter_name: ""
+output_dir: "docs"

@@ -3,7 +3,7 @@
     "path": "~/courses/r_gis/_bookdown.yml",
     "project_path": "_bookdown.yml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "3238120164",
     "contents": "",
     "dirty": false,
     "created": 1672754793813.0,
@@ -11,14 +11,16 @@
     "relative_order": 3,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "4,19",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1672754790,
+    "lastKnownWriteTime": 1672755505,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1672754790,
+    "last_content_update": 1672755505509,
     "read_only": false,
     "read_only_alternatives": []
 }
