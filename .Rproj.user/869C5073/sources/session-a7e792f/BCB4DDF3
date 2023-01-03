@@ -1,9 +1,9 @@
 {
     "id": "BCB4DDF3",
-    "path": "~/courses/r_gis/01-intro.Rmd",
-    "project_path": "01-intro.Rmd",
+    "path": "~/courses/r_gis/01-geodata.Rmd",
+    "project_path": "01-geodata.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1712362096",
     "contents": "",
     "dirty": false,
     "created": 1672754803097.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "11,0",
+        "cursorPosition": "2,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1672754790,
+    "lastKnownWriteTime": 1672757266,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1672754790,
+    "last_content_update": 1672757266,
     "read_only": false,
     "read_only_alternatives": []
 }
